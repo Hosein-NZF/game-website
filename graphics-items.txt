@@ -1,0 +1,66 @@
+      <Rectangle width="130" class="rect-1" title="Empty" percent="0%" />
+      <Linee class="line-1" :xLength="110" :yLength="39" />
+
+      <Rectangle
+        width="138"
+        class="rect-2"
+        title="Advisors & Legal Team"
+        percent="5%"
+      />
+      <Linee class="line-2" :xLength="35" :yLength="50" />
+
+      <Rectangle
+        width="160"
+        class="rect-3"
+        title="Private Round A"
+        percent="5%"
+      />
+      <Linee class="line-3" :xLength="0" :yLength="45" />
+
+      <Rectangle width="160" class="rect-4" title="Public Round" percent="4%" />
+      <Linee class="line-4" :xLength="0" :yLength="35" />
+
+      <Rectangle
+        width="160"
+        class="rect-5"
+        title="Private Round B"
+        percent="7%"
+      />
+      <Linee class="line-5" :xLength="0" :yLength="40" />
+
+      <Rectangle width="160" class="rect-6" title="Seed Round" percent="10%" />
+      <Linee class="line-6" :xLength="0" :yLength="15" />
+
+      <Rectangle
+        width="160"
+        class="rect-7"
+        title="Staking & Liquidity Mining"
+        percent="20%"
+      />
+      <Linee
+        class="line-7"
+        :xLength="90"
+        :yLength="33"
+        style="transform: scaleX(-1)"
+      />
+
+      <Rectangle
+        width="160"
+        class="rect-8"
+        title="Initial Liquidity & MM"
+        percent="10%"
+      />
+      <Linee
+        class="line-8"
+        :xLength="66"
+        :yLength="31"
+        style="transform: scale(-1, -1)"
+      />
+
+      <Rectangle width="160" class="rect-9" title="Team" percent="15%" />
+      <Linee
+        class="line-9"
+        :xLength="80"
+        :yLength="32"
+        style="transform: scaleY(-1)"
+      />
