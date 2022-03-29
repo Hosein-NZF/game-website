@@ -6,6 +6,7 @@ export default {
 
   target: "static",
 
+  // Change prefix for deploy on github.io
   router: {
     base: "/sample-project/",
   },
