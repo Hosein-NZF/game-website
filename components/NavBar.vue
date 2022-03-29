@@ -29,7 +29,7 @@
         @click="drawer = !drawer"
       ></v-app-bar-nav-icon>
 
-      <img class="mr-10" height="60px" src="/logo.png" />
+      <img class="mr-10" height="60px" src="logo.png" />
 
       <!-- link items -->
       <scrollactive
@@ -62,7 +62,7 @@
           <v-icon>mdi-instagram</v-icon>
         </v-btn>
         <v-btn icon>
-          <img width="24px" height="24px" src="/icons/telegram.svg" />
+          <img width="24px" height="24px" src="icons/telegram.svg" />
         </v-btn>
         <v-btn icon>
           <v-icon>mdi-discord</v-icon>

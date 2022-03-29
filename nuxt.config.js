@@ -2,14 +2,14 @@ import colors from "vuetify/es5/util/colors";
 
 export default {
   // Disable server-side rendering: https://go.nuxtjs.dev/ssr-mode
-  srr:false,
-  
-  target: 'static',
-  router: {
-    base: "sample-project",
-  },
-  publicPath: 'static/',
+  ssr: false,
 
+  target: "static",
+
+  router: {
+    base: "/sample-project/",
+  },
+  
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     titleTemplate: "%s - sample-project",
@@ -76,5 +76,7 @@ export default {
   },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
-  build: {},
+  build: {
+    publicPath: '/assets/'
+  },
 };

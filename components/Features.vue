@@ -29,49 +29,49 @@ export default {
     return {
       featuresItems: [
         {
-          img: "/icons/features/support.svg",
+          img: "icons/features/support.svg",
           title: "Support",
           description:
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempo",
           color: "rgba(108, 84, 255, 0.35)",
         },
         {
-          img: "/icons/features/system.svg",
+          img: "icons/features/system.svg",
           title: "System",
           description:
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempo",
           color: "rgba(252, 84, 255, 0.35)",
         },
         {
-          img: "/icons/features/smooth.svg",
+          img: "icons/features/smooth.svg",
           title: "Smooth and Intuitive",
           description:
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempo",
           color: "rgba(84, 224, 255, 0.35)",
         },
         {
-          img: "/icons/features/cross.svg",
+          img: "icons/features/cross.svg",
           title: "Cross Platform",
           description:
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempo",
           color: "rgba(84, 193, 255, 0.35)",
         },
         {
-          img: "/icons/features/tools.svg",
+          img: "icons/features/tools.svg",
           title: "Tools",
           description:
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempo",
           color: "rgba(255, 84, 166, 0.35)",
         },
         {
-          img: "/icons/features/stack.svg",
+          img: "icons/features/stack.svg",
           title: "Stack",
           description:
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempo",
           color: "rgba(255, 187, 84, 0.35)",
         },
         {
-          img: "/icons/features/vote.svg",
+          img: "icons/features/vote.svg",
           title: "Vote",
           description:
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempo",

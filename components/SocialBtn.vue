@@ -15,7 +15,7 @@
           <v-icon>mdi-instagram</v-icon>
         </v-btn>
         <v-btn color="#fff" icon x-large>
-          <img width="24px" height="24px" src="/icons/telegram.svg" />
+          <img width="24px" height="24px" src="icons/telegram.svg" />
         </v-btn>
         <v-btn color="#fff" icon x-large>
           <v-icon>mdi-discord</v-icon>

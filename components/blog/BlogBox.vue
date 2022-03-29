@@ -39,7 +39,7 @@
       >
         <img
           class="blog-arrow cursor-pointer"
-          src="/icons/circle-arrow.svg"
+          src="icons/circle-arrow.svg"
           width="50px"
           height="50px"
         />

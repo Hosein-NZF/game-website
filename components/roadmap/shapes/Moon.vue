@@ -2,7 +2,7 @@
   <div class="moon-container">
     <img
       class="moon-img"
-      src="/moon.svg"
+      src="moon.svg"
       alt="moon"
       data-aos="fade-left"
       data-aos-delay="400"
