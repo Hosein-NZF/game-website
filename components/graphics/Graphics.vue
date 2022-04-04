@@ -25,7 +25,7 @@ export default {
   position: relative;
   max-width: 1000px;
   height: 600px;
-  background-image: url("/graphics.png");
+  background-image: url("@/assets/images/graphics.png");
   background-size: contain;
   margin: 0 auto;
   background-position: center top;

@@ -13,8 +13,8 @@ export default {
   
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    titleTemplate: "%s - sample-project",
-    title: "sample-project",
+    titleTemplate: "%s - Sample Project",
+    title: "Sample Project",
     htmlAttrs: {
       lang: "en",
     },

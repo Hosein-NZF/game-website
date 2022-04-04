@@ -49,7 +49,7 @@
   left: 0;
   top: 150px;
   bottom: -150px;
-  background-image: url("/moon-effect.png");
+  background-image: url("@/assets/images/moon-effect.png");
   background-repeat: repeat;
   opacity: 0;
   z-index: 1;

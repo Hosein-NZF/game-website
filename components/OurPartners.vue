@@ -7,7 +7,7 @@
         <v-carousel-item v-for="(chunk, i) in cunkedImsSlider" :key="i">
           <div class="d-flex justify-center">
             <img
-              class="partner-logo mx-sm-6"
+              class="partner-logo mx-2 mx-sm-6"
               :src="item.src"
               :alt="item.alt"
               v-for="(item, index) in chunk"
@@ -26,12 +26,16 @@ export default {
   data() {
     return {
       imgsSlider: [
-        { src: "partners/1.png", alt: "Lorem" },
-        { src: "partners/1.png", alt: "Lorem" },
-        { src: "partners/1.png", alt: "Lorem" },
-        { src: "partners/1.png", alt: "Lorem" },
-        { src: "partners/1.png", alt: "Lorem" },
-        { src: "partners/1.png", alt: "Lorem" },
+        { src: "partners/facebook.png", alt: "Lorem" },
+        { src: "partners/insta.png", alt: "Lorem" },
+        { src: "partners/nasa.png", alt: "Lorem" },
+        { src: "partners/twitter.png", alt: "Lorem" },
+        { src: "partners/random-1.png", alt: "Lorem" },
+        { src: "partners/random-2.png", alt: "Lorem" },
+        { src: "partners/random-3.png", alt: "Lorem" },
+        { src: "partners/random-4.png", alt: "Lorem" },
+        { src: "partners/random-5.png", alt: "Lorem" },
+        { src: "partners/random-6.png", alt: "Lorem" },
       ],
     };
   },
@@ -54,11 +58,19 @@ export default {
 </script>
 
 <style scoped>
-.out-partners-container{
+.out-partners-container {
   margin-top: 40px;
 }
 .partner-logo {
-  width: 100px;
-  height: 100px;
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+}
+
+@media (max-width: 600px) {
+  .partner-logo {
+    width: 70px;
+    height: 70px;
+  }
 }
 </style>

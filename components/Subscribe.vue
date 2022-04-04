@@ -65,5 +65,14 @@ export default {
   .subscribe__head {
     font-size: 45px;
   }
+  .subscribe {
+    border-radius: 15px;
+  }
+  .subscribe__put {
+    border-radius: 8px 0 0 8px;
+  }
+  .subscribe__btn {
+    border-radius: 0 8px 8px 0;
+  }
 }
 </style>

@@ -79,7 +79,7 @@ export default {
 ul[class^="note-"] {
   position: absolute;
   z-index: 4;
-  list-style-image: url("/icons/list-icon.svg");
+  list-style-image: url("@/assets/icons/list-icon.svg");
 }
 .note-1 {
   left: 14.8%;

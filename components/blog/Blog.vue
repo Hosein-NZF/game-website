@@ -1,8 +1,8 @@
 <template>
   <v-container class="px-md-15 mt-15" id="blog">
     <div class="blog-container">
-      <div class="head-container d-flex justify-space-between px-4 px-md-0">
-        <h2 class="head-text d-inline-block pb-2">Blog</h2>
+      <div class="head-container d-flex justify-space-between align-center px-4 px-md-0">
+        <h2 class="head-text d-inline-block">Blog</h2>
         <v-btn class="see-all">See All on Medium</v-btn>
       </div>
     </div>
