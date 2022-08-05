@@ -1,4 +1,4 @@
-# Landing Game
+# Game single page
 [Demo](https://hosein-nzf.github.io/sample-project/)
 
 ## Build Setup
