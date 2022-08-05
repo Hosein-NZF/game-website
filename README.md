@@ -1,5 +1,6 @@
 # Landing Game
-[Demo](https://google.com)
+[Demo](https://hosein-nzf.github.io/sample-project/)
+
 ## Build Setup
 
 ```bash
