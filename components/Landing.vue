@@ -19,13 +19,13 @@
 
             <div class="landing-image-container">
                 <div class="landing-image">
-                    <img src="/landing-image-1.jpg" />
+                    <img src="/game-website/landing-image-1.jpg" />
                 </div>
                 <div class="landing-image">
-                    <img src="/landing-image-2.jpg" />
+                    <img src="/game-website/landing-image-2.jpg" />
                 </div>
                 <div class="landing-image">
-                    <img src="/landing-image-3.jpg" />
+                    <img src="/game-website/landing-image-3.jpg" />
                 </div>
             </div>
         </div>
