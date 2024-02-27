@@ -1,9 +1,10 @@
 <template>
   <div>
+    <Landing />
     <Features />
     <TierStructure />
     <HowWorks />
-    <Graphics />
+    <!-- <Graphics /> -->
     <Launchpad />
     <Roadmap />
     <OurPartners />
@@ -21,10 +22,12 @@ import Launchpad from "~/components/launchpad/Launchpad.vue";
 import Blog from "~/components/blog/Blog.vue";
 import Subscribe from "~/components/Subscribe.vue";
 import Roadmap from "~/components/roadmap/Roadmap.vue";
+import Landing from "~/components/Landing.vue";
 
 export default {
   name: "IndexPage",
   components: {
+    Landing,
     Features,
     TierStructure,
     HowWorks,
