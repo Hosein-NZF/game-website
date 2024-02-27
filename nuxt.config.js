@@ -8,7 +8,7 @@ export default {
 
   // Change prefix for deploy on github.io
   router: {
-    base: "/sample-project/",
+    base: "/game-website/",
   },
   
   // Global page headers: https://go.nuxtjs.dev/config-head
