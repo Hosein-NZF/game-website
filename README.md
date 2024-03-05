@@ -1,5 +1,5 @@
 # Game single page
-[Demo](https://hosein-nzf.github.io/sample-project/)
+[Demo](https://hosein-nzf.github.io/game-website/)
 
 ## Build Setup
 
